@@ -1,5 +1,11 @@
 import java.util.Random;
 
+/**
+* 
+* Particle Swarm Optimisation Algorithm for Continuous Optimization
+* Implemented by Fevzi Tugrul Varna: f.varna@sussex.ac.uk
+*/
+
 public class PSO {
 
 	int Tmax = 10000; //max iterations
